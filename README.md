@@ -1,6 +1,7 @@
 # Social Media Botnet & Information Operations Simulator
 
-> **⚠️ ACADEMIC & SECURITY RESEARCH DISCLAIMER**
+> [!WARNING]
+> **ACADEMIC & SECURITY RESEARCH DISCLAIMER**
 > This repository is a Proof of Concept (PoC) designed strictly for academic research, threat intelligence, and cybersecurity education. Its purpose is to simulate and study the mechanics of computational propaganda, botnet topologies, and LLM-driven narrative manipulation in an **isolated, local environment**. 
 > 
 > **This project does NOT include capabilities to interact with, scrape, or post to real social media platforms.** It operates entirely within a closed-loop local database and visualizer. 
